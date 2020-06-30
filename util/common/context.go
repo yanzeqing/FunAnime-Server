@@ -3,7 +3,7 @@ package common
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"sinblog.cn/FunAnime-Server/util/errno"
+	"github.com/yanzeqing/FunAnime-Server/util/errno"
 )
 
 type RespFormat struct {
