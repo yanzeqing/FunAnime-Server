@@ -2,11 +2,11 @@ package serviceVideo
 
 import (
 	"fmt"
-	"sinblog.cn/FunAnime-Server/middleware/token"
-	"sinblog.cn/FunAnime-Server/model"
-	requestVideo "sinblog.cn/FunAnime-Server/serializable/request/video"
-	"sinblog.cn/FunAnime-Server/util/errno"
-	"sinblog.cn/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/middleware/token"
+	"github.com/yanzeqing/FunAnime-Server/model"
+	requestVideo "github.com/yanzeqing/FunAnime-Server/serializable/request/video"
+	"github.com/yanzeqing/FunAnime-Server/util/errno"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
 	"strings"
 	"time"
 )
