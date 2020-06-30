@@ -2,7 +2,7 @@ package serviceStruct
 
 import (
 	"encoding/json"
-	"sinblog.cn/FunAnime-Server/util/common"
+	"github.com/yanzeqing/FunAnime-Server/util/common"
 )
 
 type BasicRouter struct {
