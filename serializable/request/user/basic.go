@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"sinblog.cn/FunAnime-Server/middleware/token"
-	"sinblog.cn/FunAnime-Server/util/common"
-	"sinblog.cn/FunAnime-Server/util/errno"
+	"github.com/yanzeqing/FunAnime-Server/middleware/token"
+	"github.com/yanzeqing/FunAnime-Server/util/common"
+	"github.com/yanzeqing/FunAnime-Server/util/errno"
 )
 
 type BasicUser struct {
