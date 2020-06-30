@@ -3,7 +3,7 @@ package logger
 import (
 	"fmt"
 	log "github.com/sirupsen/logrus"
-	"sinblog.cn/FunAnime-Server/util/osUtil"
+	"github.com/yanzeqing/FunAnime-Server/util/osUtil"
 	"time"
 )
 
