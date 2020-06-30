@@ -1,9 +1,9 @@
 package responseVideo
 
 import (
-	"sinblog.cn/FunAnime-Server/model"
-	"sinblog.cn/FunAnime-Server/serializable/response"
-	"sinblog.cn/FunAnime-Server/util/common"
+	"github.com/yanzeqing/FunAnime-Server/model"
+	"github.com/yanzeqing/FunAnime-Server/serializable/response"
+	"github.com/yanzeqing/FunAnime-Server/util/common"
 )
 
 type CollectListResponse struct {
