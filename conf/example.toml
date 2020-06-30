@@ -5,7 +5,7 @@ type = "conf/DEV"
 host = "127.0.0.1:3306"
 database = "fun_anime_server"
 user = "root"
-password = "123456"
+password = "/lfd1ageV(*B"
 
 [redis_main]
 host = "127.0.0.1:6379"
