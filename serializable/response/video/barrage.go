@@ -2,8 +2,8 @@ package responseVideo
 
 import (
 	"encoding/json"
-	"sinblog.cn/FunAnime-Server/model"
-	barrage "sinblog.cn/FunAnime-Server/service/websocket"
+	"github.com/yanzeqing/FunAnime-Server/model"
+	barrage "github.com/yanzeqing/FunAnime-Server/service/websocket"
 )
 
 func BuildBarrageArrayResp(modelList []*model.FaBarrage) []*barrage.BarrageType {
