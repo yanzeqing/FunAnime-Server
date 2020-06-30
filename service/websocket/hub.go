@@ -6,7 +6,7 @@ package barrage
 
 import (
 	"encoding/json"
-	"sinblog.cn/FunAnime-Server/model"
+	"github.com/yanzeqing/FunAnime-Server/model"
 	"strconv"
 	"time"
 )
