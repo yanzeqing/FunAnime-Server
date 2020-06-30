@@ -1,7 +1,7 @@
 package response
 
 import (
-	serviceStruct "sinblog.cn/FunAnime-Server/service/struct"
+	serviceStruct "github.com/yanzeqing/FunAnime-Server/service/struct"
 )
 
 type BasicConfigResp struct {
