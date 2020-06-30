@@ -1,9 +1,9 @@
 package main
 
 import (
-	"sinblog.cn/FunAnime-Server/router"
-	barrage "sinblog.cn/FunAnime-Server/service/websocket"
-	"sinblog.cn/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/router"
+	barrage "github.com/yanzeqing/FunAnime-Server/service/websocket"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
 )
 
 func main() {
