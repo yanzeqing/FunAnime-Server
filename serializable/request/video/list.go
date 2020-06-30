@@ -2,8 +2,8 @@ package video
 
 import (
 	"github.com/gin-gonic/gin"
-	"sinblog.cn/FunAnime-Server/middleware/token"
-	"sinblog.cn/FunAnime-Server/serializable/request/user"
+	"github.com/yanzeqing/FunAnime-Server/middleware/token"
+	"github.com/yanzeqing/FunAnime-Server/serializable/request/user"
 )
 
 type GetVideoListForOuter struct {
