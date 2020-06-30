@@ -1,6 +1,6 @@
 package responseVideo
 
-import barrage "sinblog.cn/FunAnime-Server/service/websocket"
+import barrage "github.com/yanzeqing/FunAnime-Server/service/websocket"
 
 type VideoDetailResponse struct {
 	VideoName     string                 `json:"video_name"`
