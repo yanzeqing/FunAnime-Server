@@ -1,10 +1,10 @@
 package main
 
 import (
-	"sinblog.cn/FunAnime-Server/cache"
-	"sinblog.cn/FunAnime-Server/model"
-	"sinblog.cn/FunAnime-Server/util/conf"
-	"sinblog.cn/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/cache"
+	"github.com/yanzeqing/FunAnime-Server/model"
+	"github.com/yanzeqing/FunAnime-Server/util/conf"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
 )
 
 func initHandler(runType string) {
