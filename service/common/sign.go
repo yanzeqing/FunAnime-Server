@@ -5,8 +5,8 @@ import (
 	"crypto/sha1"
 	"encoding/base64"
 	"github.com/spf13/viper"
-	"sinblog.cn/FunAnime-Server/util/logger"
-	"sinblog.cn/FunAnime-Server/util/random"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/util/random"
 	"strconv"
 	"time"
 )
