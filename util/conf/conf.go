@@ -2,7 +2,7 @@ package conf
 
 import (
 	"github.com/spf13/viper"
-	"sinblog.cn/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
 )
 
 func Init(runType string) {
