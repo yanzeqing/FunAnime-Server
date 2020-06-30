@@ -2,11 +2,11 @@ package config
 
 import (
 	"github.com/gin-gonic/gin"
-	"sinblog.cn/FunAnime-Server/model"
-	"sinblog.cn/FunAnime-Server/serializable/request"
-	serviceStruct "sinblog.cn/FunAnime-Server/service/struct"
-	"sinblog.cn/FunAnime-Server/util/errno"
-	"sinblog.cn/FunAnime-Server/util/logger"
+	"github.com/yanzeqing/FunAnime-Server/model"
+	"github.com/yanzeqing/FunAnime-Server/serializable/request"
+	serviceStruct "github.com/yanzeqing/FunAnime-Server/service/struct"
+	"github.com/yanzeqing/FunAnime-Server/util/errno"
+	"github.com/yanzeqing/FunAnime-Server/util/logger"
 	"time"
 )
 
