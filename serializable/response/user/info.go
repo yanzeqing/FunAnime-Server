@@ -1,7 +1,7 @@
 package respUser
 
 import (
-	"sinblog.cn/FunAnime-Server/model"
+	"github.com/yanzeqing/FunAnime-Server/model"
 )
 
 type InfoResponse struct {
